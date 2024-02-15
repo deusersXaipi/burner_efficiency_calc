@@ -9,10 +9,11 @@
 
 
 
-<img src="img/flame_logo.png" width="200" align="left" />
+<img src="img/flame_logo.png" width="210" align="left" />
 
 # Burner's efficiency calculator for Asphalt plant
 This project consists of several scripts and files designed to calculate and visualize the efficiency of a burner, as well as predict the burner power using a neural network model.
+
 
 
 ---
