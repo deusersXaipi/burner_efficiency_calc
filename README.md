@@ -51,6 +51,7 @@ pip install -r requirements.txt
 
 ### Usage
 > Note: You can run the code as it is since the `data.csv` file contains sample data. However, if you wish to test the code with your own data, you need to replace the example `data.csv` file with your original data (keeping the same structure and column names) and then execute the `train_model.pyc` file with the argument of `data.csv`. This will create a new `model.keras` file with weights tailored to your data.
+> If you are using your own data to train the model, before invoking the "train_model.pyc" file, you must execute the "calculate_efficiency" function from the "main.py" file. This step ensures that the data is preprocessed and ready for training.
 
 
 Once you have installed the required libraries, you can use the scripts to calculate burner efficiency and predict burner power. Here are the available commands:
