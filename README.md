@@ -9,7 +9,7 @@ This project consists of scripts and files for calculating burner efficiency and
 
 - Python 3.11.4 or later installed on your system. You can download the latest version of Python from [the official website](https://www.python.org/downloads/).
 
-### Installation
+### Installation (for Windows)
 
 1. Clone the repository to your local machine:
 
