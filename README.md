@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="img/sxaipi_logo.png" width="300" /> 
+</p>
+<p align="center">
+  <img src="img/deuser_logo.png" width="400" />
+</p>
+
+
+
+
+
+<img src="img/flame_logo.png" width="150" align="left" />
+
 # Burner's efficiency calculator for Asphalt plant
 This project consists of several scripts and files designed to calculate and visualize the efficiency of a burner, as well as predict the burner power using a neural network model.
 
@@ -43,6 +56,10 @@ Once you have installed the required libraries, you can use the scripts to calcu
 ```
 python main.py calculate_efficiency
 ```
+<p align="center">
+  <img src="img/example1.png" width="700" /> 
+</p>
+
 - **Plot efficiency evolution:** Run the `main.py` script with the `plot_efficiency_evolution` function. Example:
 ```
 python main.py plot_efficiency_evolution
