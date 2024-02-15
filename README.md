@@ -14,6 +14,8 @@
 # Burner's efficiency calculator for Asphalt plant
 This project consists of several scripts and files designed to calculate and visualize the efficiency of a burner, as well as predict the burner power using a neural network model.
 
+
+---
 ## How to Use
 
 This project consists of scripts and files for calculating burner efficiency and predicting burner power. Follow the steps below to download, install the necessary libraries, and execute the code using the Windows cmd console.
